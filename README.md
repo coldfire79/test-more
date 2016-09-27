@@ -8,5 +8,7 @@
 All  Protein Take2
 <!--adbio-funding-->
 <!--adbio-publication-->
+<!--adbio-organism-->
+Organism [Homo sapiens (human)](http://www.genome.jp/kegg-bin/show_organism?org=hsa)
 <!------------------------------------------------------------------------------>
 <!--you can add any other information here-->
